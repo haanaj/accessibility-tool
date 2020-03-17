@@ -5,7 +5,9 @@
 layout: home
 ---
 
-Welcome to the Accessibility Tool for Websites! This tool was designed by Haana Janmohamed, a student at the University of Texas at Austin, for her Designing for Healthcare course. Curious about how this works? Please check out the mini directory below to see what each page on this website covers.
+Welcome to the Accessibility Tool for Websites! This tool was designed by Haana Janmohamed, a student at the University of Texas at Austin, for her Designing for Healthcare course. 
+
+Curious about how this works? Please check out the mini directory below to see what each page on this website covers.
 
 |**Page**|**Description**|
 |[Instructions](/accessibility-tool/instructions/)|This is where you can download the tool! Instructions on how to set it up are provided.|
