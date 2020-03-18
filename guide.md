@@ -7,7 +7,7 @@ weight: 2
 
 ## How To Evaluate Your Website Correctly
 
-In the spreadsheet/tool, you will notice that there are four sections: Navigation, Usability, Layout, and Design. By narrowing down on these sections, users are able to figure out what may need work with their website (and what doesn't!).
+In the spreadsheet/tool, you will notice that there are four sections: Navigation, Usability, Layout, and Design. By narrowing down on these sections, users are able to figure out what may need work with their website (and what doesn't).
 
 This guide is broken up by the four sections and will go through each statement to help you identify what to look for so you can rank each statement correctly.
 
