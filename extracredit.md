@@ -47,6 +47,6 @@ The category that seemed to vary the most in scores was Layout. All the websites
 
 It is important to note that a rank of 1 (maybe/neutral) was given if it was unclear whether a site had a particular feature or not. This could definitely affect how a site is viewed through the data.
 
-The website that scored the highest was the Texas Health Options. The "lowest" score was given to the three websites. In general, though, there wasn't one particular site that was lacking.
+The website that scored the highest was the Texas Health Options. Three websites scored 49, the lowest score given out among the six sites. In general, though, there wasn't one particular site that was lacking.
 
 The individual score breakdowns allow us to see where a website may improve. Because there were more differences in the Layout and even Design section, this may be where websites should devote their attention to. For the most part, Navigation and Usability seemed to have a very good score distribution.
