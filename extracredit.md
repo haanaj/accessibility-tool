@@ -27,24 +27,24 @@ Here is the raw data:
 
 ### Individual Score Breakdowns
 
-<img src="accessibility-tool/assets/graphs/Navigation.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="accessibility-tool/assets/graphs/Usability.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Navigation.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Usability.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
-<img src="accessibility-tool/assets/graphs/Layout.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="accessibility-tool/assets/graphs/Design.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Layout.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Design.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
 ## Breakdown by Website
 
-<img src="accessibility-tool/assets/graphs/MayoClinic.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="accessibility-tool/assets/graphs/ARC.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/MayoClinic.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/ARC.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
-<img src="accessibility-tool/assets/graphs/Aetna.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="accessibility-tool/assets/graphs/Medicare.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Aetna.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/Medicare.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
-<img src="accessibility-tool/assets/graphs/THO.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="accessibility-tool/assets/graphs/HCG.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/THO.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/accessibility-tool/assets/graphs/HCG.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
