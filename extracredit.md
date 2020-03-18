@@ -45,7 +45,7 @@ Overall, all the sites scored very close to each other in the high range, meanin
 
 The category that seemed to vary the most in scores was Layout. All the websites had different layouts and some worked really well while others did need a little more work.
 
-It is important to note that the score of 1 was given if it was unclear whether a site had a particular feature or not. This could definitely affect how a site is viewed through the data.
+It is important to note that a rank of 1 (maybe/neutral) was given if it was unclear whether a site had a particular feature or not. This could definitely affect how a site is viewed through the data.
 
 The website that scored the highest was the Texas Health Options. The "lowest" score was given to the three websites. In general, though, there wasn't one particular site that was lacking.
 
