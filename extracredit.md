@@ -38,3 +38,15 @@ Here is the raw data:
 ![Austin Regional Clinic](/accessibility-tool/assets/graphs/ARC.png)
 ![Texas Health Options](/accessibility-tool/assets/graphs/THO.png)
 ![Healthcare.gov](/accessibility-tool/assets/graphs/HCG.png)
+
+## Discussion
+
+Overall, all the sites scored very close to each other in the high range, meaning that they were mostly accessible. 
+
+The category that seemed to vary the most in scores was Layout. All the websites had different layouts and some worked really well while others did need a little more work.
+
+It is important to note that the score of 1 was given if it was unclear whether a site had a particular feature or not. This could definitely affect how a site is viewed through the data.
+
+The website that scored the highest was the Texas Health Options. The "lowest" score was given to the three websites. In general, though, there wasn't one particular site that lacking.
+
+The individual score breakdowns allow us to see where a website may improve. Because there were more differences in the Layout and even Design section, this may be where websites should devote their attention to. For the most part, Navigation and Usability seemed to have a very good score distribution.
