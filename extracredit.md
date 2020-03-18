@@ -23,28 +23,18 @@ Here is the raw data:
 
 ![Final Score Breakdown](/accessibility-tool/assets/graphs/FinalScores.png)
 
-<!-- Credits to this website for helping with the layout: https://owlcation.com/stem/how-to-align-images-side-by-side-->
-
 ### Individual Score Breakdowns
 
-<img src="/accessibility-tool/assets/graphs/Navigation.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/accessibility-tool/assets/graphs/Usability.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
-
-<img src="/accessibility-tool/assets/graphs/Layout.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/accessibility-tool/assets/graphs/Design.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+![Navigation Breakdown](/accessibility-tool/assets/graphs/Navigation.png)
+![Usability Breakdown](/accessibility-tool/assets/graphs/Usability.png)
+![Layout Breakdown](/accessibility-tool/assets/graphs/Layout.png)
+![Design Breakdown](/accessibility-tool/assets/graphs/Design.png)
 
 ## Breakdown by Website
 
-<img src="/accessibility-tool/assets/graphs/MayoClinic.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/accessibility-tool/assets/graphs/ARC.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
-
-<img src="/accessibility-tool/assets/graphs/Aetna.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/accessibility-tool/assets/graphs/Medicare.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
-
-<img src="/accessibility-tool/assets/graphs/THO.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/accessibility-tool/assets/graphs/HCG.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+![Mayo Clinic](/accessibility-tool/assets/graphs/MayoClinic.png)
+![Medicare](/accessibility-tool/assets/graphs/Medicare.png)
+![Aetna](/accessibility-tool/assets/graphs/Aetna.png)
+![Austin Regional Clinic](/accessibility-tool/assets/graphs/ARC.png)
+![Texas Health Options](/accessibility-tool/assets/graphs/THO.png)
+![Healthcare.gov](/accessibility-tool/assets/graphs/HCG.png)
